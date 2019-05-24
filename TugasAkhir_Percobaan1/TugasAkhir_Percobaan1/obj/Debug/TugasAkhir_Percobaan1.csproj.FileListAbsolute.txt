@@ -1,0 +1,18 @@
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\bin\Debug\TugasAkhir_Percobaan1.exe.config
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\bin\Debug\TugasAkhir_Percobaan1.exe
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\bin\Debug\TugasAkhir_Percobaan1.pdb
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.csprojResolveAssemblyReference.cache
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.Form1.resources
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.Properties.Resources.resources
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.csproj.GenerateResource.Cache
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.exe
+C:\Users\muhri\Documents\kanzu_prktkm_DKP\C#\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.pdb
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\bin\Debug\TugasAkhir_Percobaan1.exe.config
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.exe
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.pdb
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\bin\Debug\TugasAkhir_Percobaan1.exe
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\bin\Debug\TugasAkhir_Percobaan1.pdb
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.csprojResolveAssemblyReference.cache
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.Form1.resources
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.Properties.Resources.resources
+C:\Users\muhri\Documents\Kuliah\Tugas\Praktikum dkp\Tugas Akhir\TugasAkhir_Percobaan1\TugasAkhir_Percobaan1\obj\Debug\TugasAkhir_Percobaan1.csproj.GenerateResource.Cache
